@@ -2,10 +2,10 @@
 
 # QSettings configurations
 ORGANIZATION_NAME = "polarityAI"
-APPLICATION_NAME = "bsl8_1"
+APPLICATION_NAME = "bslm_ver_8_11"
 # logger_setup
-LOG_FILE = 'bsl8_1.log'
-PRINGLES = 'bsl8_1'  # lol the directory made/placed
+LOG_FILE = 'bslm_ver_8_11.log'
+PRINGLES = 'bslm_ver_8_11'  # lol the directory made/placed
 DATEFORMAT = '%d-%b-%y %I:%M:%S %p'  # this is how you want it from now on lolol ok?
 FILE_MODE = 'w'
 # database
